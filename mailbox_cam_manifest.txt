@@ -1,0 +1,3 @@
+version=public-ota-20260519
+url=https://raw.githubusercontent.com/thracyturnix/esp32-mailbox-cam-ota/main/mailbox_cam.ino.bin
+md5=a1d5d3c0b7ac63efd827eba1320972cf

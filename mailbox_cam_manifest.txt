@@ -1,3 +1,3 @@
-version=8b62560
+version=33b2e14
 url=https://raw.githubusercontent.com/thracyturnix/esp32-mailbox-cam-ota/main/mailbox_cam.ino.bin
-md5=5ecaa12bb63e01c48c5a9962eaa0e307
+md5=bebd092036fa22aa500f3eaffdf7bbc1
